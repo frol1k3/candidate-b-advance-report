@@ -1,0 +1,3 @@
+﻿as_of,contract_id,contractor,signed_amount,active_work_payable,cancelled_work_value,paid_total,paid_assigned_to_works,unassigned_or_excess_paid,remaining_to_pay,queued_not_paid,queued_unallocated
+2026-11-10,D-1,Студия «Свет»,600000.00,500000.00,100000.00,315000.00,315000.00,0.00,185000.00,150000.00,150000.00
+2026-11-10,D-2,"Иван Петров, дизайнер",90000.00,90000.00,0.00,75000.00,75000.00,0.00,15000.00,0.00,0.00
